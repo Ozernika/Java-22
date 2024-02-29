@@ -125,6 +125,7 @@ public class RPNCalculatorGUI {
             @Override
             public void run() {
                 new RPNCalculatorGUI();
+/* новый комментарий */
             }
         });
     }
