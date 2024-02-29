@@ -60,6 +60,6 @@ public class RPNCalculator {
         } finally {
             scanner.close();
         }
-	System.out.print("Вычисления завершены");
+	/*вычисления завершены*/
     }
 }
